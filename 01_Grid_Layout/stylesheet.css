@@ -48,3 +48,9 @@
     background-color: orange;
     text-align: center;
 }
+
+.colinside {
+    min-height: 100px;
+    background-color: red;
+    text-align: center;
+}
